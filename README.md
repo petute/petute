@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :speech_balloon: About Me:
 Hi, I'm Daniel
 
 I'm enthusiastic about Go and Frontend with the T3 stack.<br>Currently I'm working on an educational platform for future software engineers.<br>
